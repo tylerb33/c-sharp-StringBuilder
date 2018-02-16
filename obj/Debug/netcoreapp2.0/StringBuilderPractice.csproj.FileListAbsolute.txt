@@ -1,0 +1,11 @@
+/Users/tylerbarnett/Projects/StringBuilderPractice/bin/Debug/netcoreapp2.0/StringBuilderPractice.deps.json
+/Users/tylerbarnett/Projects/StringBuilderPractice/bin/Debug/netcoreapp2.0/StringBuilderPractice.runtimeconfig.json
+/Users/tylerbarnett/Projects/StringBuilderPractice/bin/Debug/netcoreapp2.0/StringBuilderPractice.runtimeconfig.dev.json
+/Users/tylerbarnett/Projects/StringBuilderPractice/bin/Debug/netcoreapp2.0/StringBuilderPractice.dll
+/Users/tylerbarnett/Projects/StringBuilderPractice/bin/Debug/netcoreapp2.0/StringBuilderPractice.pdb
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.csprojResolveAssemblyReference.cache
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.csproj.CoreCompileInputs.cache
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.AssemblyInfoInputs.cache
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.AssemblyInfo.cs
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.dll
+/Users/tylerbarnett/Projects/StringBuilderPractice/obj/Debug/netcoreapp2.0/StringBuilderPractice.pdb
